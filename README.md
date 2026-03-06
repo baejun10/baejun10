@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5a4&height=140&section=header&text=안녕하세요!%20배준범입니다.&fontSize=28&fontColor=ffffff&animation=twinkling)
 
-개발과 사이버보안 분야를 공부하고 있습니다. 그냥 재미있어 보이는 게 있으면 합니다.
+개발과 사이버보안 분야를 공부하고 있습니다. 평소에 느낀 불편한이나 문제점들을 소프트웨어로 해결하는 것을 좋아합니다.
 
 ---
 
